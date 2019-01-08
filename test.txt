@@ -5,3 +5,5 @@ git is 123!
 branch is simple and easy@!123456
 >>>>>>> slave
 Creating a new branch is quick and simple.
+hello world!
+
